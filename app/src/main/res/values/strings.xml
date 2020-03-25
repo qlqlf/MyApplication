@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">201621214 이시형</string>
+    <string name="greeting">문자열 변수 이용</string>
+</resources>
